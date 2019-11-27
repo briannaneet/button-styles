@@ -19,6 +19,9 @@ div {
   font-size: 1.125rem;
   color: #fff;
   background-color: #333;
+  display: inline-block;
+  border-width: 3px;
+  border-style: solid;
 }
 
 .btn:hover {
@@ -34,7 +37,6 @@ div {
 }
 
 .btn-ghost {
-  border-width: 3px;
   border-style: solid;
   border-color: #000;
   color: #000;
